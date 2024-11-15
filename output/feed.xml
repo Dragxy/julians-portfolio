@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Julian&#x27;s Portfolio</title>
+    <link href="https://julianhuber.netlify.app/feed.xml" rel="self" />
+    <link href="https://julianhuber.netlify.app" />
+    <updated>2024-11-15T10:29:00+01:00</updated>
+    <author>
+        <name>Julian Huber</name>
+    </author>
+    <id>https://julianhuber.netlify.app</id>
+
+    <entry>
+        <title>LEVEL UP, Salzburg</title>
+        <author>
+            <name>Julian Huber</name>
+        </author>
+        <link href="https://julianhuber.netlify.app/level-up-salzburg/"/>
+        <id>https://julianhuber.netlify.app/level-up-salzburg/</id>
+            <category term="Personal"/>
+
+        <updated>2024-11-15T09:56:22+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Allegiance</title>
+        <author>
+            <name>Julian Huber</name>
+        </author>
+        <link href="https://julianhuber.netlify.app/allegiance/"/>
+        <id>https://julianhuber.netlify.app/allegiance/</id>
+            <category term="Projects"/>
+
+        <updated>2024-11-15T09:55:21+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Linsinger Vermessung</title>
+        <author>
+            <name>Julian Huber</name>
+        </author>
+        <link href="https://julianhuber.netlify.app/linsinger-vermessung/"/>
+        <id>https://julianhuber.netlify.app/linsinger-vermessung/</id>
+            <category term="Career"/>
+
+        <updated>2024-11-15T09:55:08+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>itxpert</title>
+        <author>
+            <name>Julian Huber</name>
+        </author>
+        <link href="https://julianhuber.netlify.app/itxpert/"/>
+        <id>https://julianhuber.netlify.app/itxpert/</id>
+            <category term="Career"/>
+
+        <updated>2024-11-15T09:54:40+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>BG/BRG/BORG St. Johann</title>
+        <author>
+            <name>Julian Huber</name>
+        </author>
+        <link href="https://julianhuber.netlify.app/test4/"/>
+        <id>https://julianhuber.netlify.app/test4/</id>
+            <category term="Career"/>
+
+        <updated>2024-11-15T09:13:08+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>HTL-Saalfelden</title>
+        <author>
+            <name>Julian Huber</name>
+        </author>
+        <link href="https://julianhuber.netlify.app/test3/"/>
+        <id>https://julianhuber.netlify.app/test3/</id>
+            <category term="Career"/>
+
+        <updated>2024-11-15T08:48:00+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>eurofunk</title>
+        <author>
+            <name>Julian Huber</name>
+        </author>
+        <link href="https://julianhuber.netlify.app/test2/"/>
+        <id>https://julianhuber.netlify.app/test2/</id>
+            <category term="Career"/>
+
+        <updated>2024-11-15T08:47:53+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>UNIFITS</title>
+        <author>
+            <name>Julian Huber</name>
+        </author>
+        <link href="https://julianhuber.netlify.app/test-2/"/>
+        <id>https://julianhuber.netlify.app/test-2/</id>
+            <category term="Projects"/>
+            <category term="Career"/>
+
+        <updated>2024-11-15T08:42:12+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

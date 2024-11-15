@@ -1,0 +1,119 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Julian&#x27;s Portfolio",
+    "description": "",
+    "home_page_url": "https://julianhuber.netlify.app",
+    "feed_url": "https://julianhuber.netlify.app/feed.json",
+    "user_comment": "",
+    "icon": "https://julianhuber.netlify.app/media/website/JH-15-11-2024-2.png",
+    "author": {
+        "name": "Julian Huber"
+    },
+    "items": [
+        {
+            "id": "https://julianhuber.netlify.app/level-up-salzburg/",
+            "url": "https://julianhuber.netlify.app/level-up-salzburg/",
+            "title": "LEVEL UP, Salzburg",
+            "author": {
+                "name": "Julian Huber"
+            },
+            "tags": [
+                   "Personal"
+            ],
+            "date_published": "2024-11-15T09:56:22+01:00",
+            "date_modified": "2024-11-15T09:56:42+01:00"
+        },
+        {
+            "id": "https://julianhuber.netlify.app/allegiance/",
+            "url": "https://julianhuber.netlify.app/allegiance/",
+            "title": "Allegiance",
+            "author": {
+                "name": "Julian Huber"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2024-11-15T09:55:21+01:00",
+            "date_modified": "2024-11-15T09:56:59+01:00"
+        },
+        {
+            "id": "https://julianhuber.netlify.app/linsinger-vermessung/",
+            "url": "https://julianhuber.netlify.app/linsinger-vermessung/",
+            "title": "Linsinger Vermessung",
+            "author": {
+                "name": "Julian Huber"
+            },
+            "tags": [
+                   "Career"
+            ],
+            "date_published": "2024-11-15T09:55:08+01:00",
+            "date_modified": "2024-11-15T09:57:07+01:00"
+        },
+        {
+            "id": "https://julianhuber.netlify.app/itxpert/",
+            "url": "https://julianhuber.netlify.app/itxpert/",
+            "title": "itxpert",
+            "author": {
+                "name": "Julian Huber"
+            },
+            "tags": [
+                   "Career"
+            ],
+            "date_published": "2024-11-15T09:54:40+01:00",
+            "date_modified": "2024-11-15T09:57:13+01:00"
+        },
+        {
+            "id": "https://julianhuber.netlify.app/test4/",
+            "url": "https://julianhuber.netlify.app/test4/",
+            "title": "BG/BRG/BORG St. Johann",
+            "author": {
+                "name": "Julian Huber"
+            },
+            "tags": [
+                   "Career"
+            ],
+            "date_published": "2024-11-15T09:13:08+01:00",
+            "date_modified": "2024-11-15T09:57:18+01:00"
+        },
+        {
+            "id": "https://julianhuber.netlify.app/test3/",
+            "url": "https://julianhuber.netlify.app/test3/",
+            "title": "HTL-Saalfelden",
+            "author": {
+                "name": "Julian Huber"
+            },
+            "tags": [
+                   "Career"
+            ],
+            "date_published": "2024-11-15T08:48:00+01:00",
+            "date_modified": "2024-11-15T09:57:24+01:00"
+        },
+        {
+            "id": "https://julianhuber.netlify.app/test2/",
+            "url": "https://julianhuber.netlify.app/test2/",
+            "title": "eurofunk",
+            "author": {
+                "name": "Julian Huber"
+            },
+            "tags": [
+                   "Career"
+            ],
+            "date_published": "2024-11-15T08:47:53+01:00",
+            "date_modified": "2024-11-15T09:57:31+01:00"
+        },
+        {
+            "id": "https://julianhuber.netlify.app/test-2/",
+            "url": "https://julianhuber.netlify.app/test-2/",
+            "title": "UNIFITS",
+            "author": {
+                "name": "Julian Huber"
+            },
+            "tags": [
+                   "Projects",
+                   "Career"
+            ],
+            "date_published": "2024-11-15T08:42:12+01:00",
+            "date_modified": "2024-11-15T10:29:00+01:00"
+        }
+    ]
+}

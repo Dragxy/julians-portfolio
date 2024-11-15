@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:///C:\Users\huber\Publii\julians-portfolio\preview/sitemap.xml

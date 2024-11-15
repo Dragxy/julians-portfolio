@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Julian&#x27;s Portfolio</title>
+    <link href="file:///C:\Users\huber\Publii\julians-portfolio\preview/feed.xml" rel="self" />
+    <link href="file:///C:\Users\huber\Publii\julians-portfolio\preview" />
+    <updated>2024-11-15T11:00:17+01:00</updated>
+    <author>
+        <name>Julian Huber</name>
+    </author>
+    <id>file:///C:\Users\huber\Publii\julians-portfolio\preview</id>
+
+    <entry>
+        <title>LEVEL UP, Salzburg</title>
+        <author>
+            <name>Julian Huber</name>
+        </author>
+        <link href="file:///C:\Users\huber\Publii\julians-portfolio\preview/level-up-salzburg/index.html"/>
+        <id>file:///C:\Users\huber\Publii\julians-portfolio\preview/level-up-salzburg/index.html</id>
+            <category term="Personal"/>
+
+        <updated>2024-11-15T09:56:22+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Allegiance</title>
+        <author>
+            <name>Julian Huber</name>
+        </author>
+        <link href="file:///C:\Users\huber\Publii\julians-portfolio\preview/allegiance/index.html"/>
+        <id>file:///C:\Users\huber\Publii\julians-portfolio\preview/allegiance/index.html</id>
+            <category term="Projects"/>
+
+        <updated>2024-11-15T09:55:21+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Linsinger Vermessung</title>
+        <author>
+            <name>Julian Huber</name>
+        </author>
+        <link href="file:///C:\Users\huber\Publii\julians-portfolio\preview/linsinger-vermessung/index.html"/>
+        <id>file:///C:\Users\huber\Publii\julians-portfolio\preview/linsinger-vermessung/index.html</id>
+            <category term="Career"/>
+
+        <updated>2024-11-15T09:55:08+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>itxpert</title>
+        <author>
+            <name>Julian Huber</name>
+        </author>
+        <link href="file:///C:\Users\huber\Publii\julians-portfolio\preview/itxpert/index.html"/>
+        <id>file:///C:\Users\huber\Publii\julians-portfolio\preview/itxpert/index.html</id>
+            <category term="Career"/>
+
+        <updated>2024-11-15T09:54:40+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>BG/BRG/BORG St. Johann</title>
+        <author>
+            <name>Julian Huber</name>
+        </author>
+        <link href="file:///C:\Users\huber\Publii\julians-portfolio\preview/test4/index.html"/>
+        <id>file:///C:\Users\huber\Publii\julians-portfolio\preview/test4/index.html</id>
+            <category term="Career"/>
+
+        <updated>2024-11-15T09:13:08+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>HTL-Saalfelden</title>
+        <author>
+            <name>Julian Huber</name>
+        </author>
+        <link href="file:///C:\Users\huber\Publii\julians-portfolio\preview/test3/index.html"/>
+        <id>file:///C:\Users\huber\Publii\julians-portfolio\preview/test3/index.html</id>
+            <category term="Career"/>
+
+        <updated>2024-11-15T08:48:00+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>eurofunk</title>
+        <author>
+            <name>Julian Huber</name>
+        </author>
+        <link href="file:///C:\Users\huber\Publii\julians-portfolio\preview/test2/index.html"/>
+        <id>file:///C:\Users\huber\Publii\julians-portfolio\preview/test2/index.html</id>
+            <category term="Career"/>
+
+        <updated>2024-11-15T08:47:53+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>UNIFITS</title>
+        <author>
+            <name>Julian Huber</name>
+        </author>
+        <link href="file:///C:\Users\huber\Publii\julians-portfolio\preview/test-2/index.html"/>
+        <id>file:///C:\Users\huber\Publii\julians-portfolio\preview/test-2/index.html</id>
+            <category term="Projects"/>
+            <category term="Career"/>
+
+        <updated>2024-11-15T08:42:12+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
