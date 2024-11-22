@@ -2,83 +2,21 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Julian&#x27;s Portfolio",
     "description": "",
-    "home_page_url": "file:///C:\Users\huber\Publii\julians-portfolio\preview",
-    "feed_url": "file:///C:\Users\huber\Publii\julians-portfolio\preview/feed.json",
+    "home_page_url": "file:///C:\GitHub\Publii\julians-portfolio\preview",
+    "feed_url": "file:///C:\GitHub\Publii\julians-portfolio\preview/feed.json",
     "user_comment": "",
-    "icon": "file:///C:/Users/huber/Publii/julians-portfolio/preview/media/website/JH-15-11-2024-2.png",
+    "icon": "file:///C:/GitHub/Publii/julians-portfolio/preview/media/website/JH-15-11-2024-2.png",
     "author": {
         "name": "Julian Huber"
     },
     "items": [
         {
-            "id": "file:///C:\Users\huber\Publii\julians-portfolio\preview/level-up-salzburg/index.html",
-            "url": "file:///C:\Users\huber\Publii\julians-portfolio\preview/level-up-salzburg/index.html",
-            "title": "LEVEL UP, Salzburg",
-            "author": {
-                "name": "Julian Huber"
-            },
-            "tags": [
-                   "Personal"
-            ],
-            "date_published": "2024-11-15T09:56:22+01:00",
-            "date_modified": "2024-11-15T11:00:17+01:00"
-        },
-        {
-            "id": "file:///C:\Users\huber\Publii\julians-portfolio\preview/allegiance/index.html",
-            "url": "file:///C:\Users\huber\Publii\julians-portfolio\preview/allegiance/index.html",
-            "title": "Allegiance",
-            "author": {
-                "name": "Julian Huber"
-            },
-            "tags": [
-                   "Projects"
-            ],
-            "date_published": "2024-11-15T09:55:21+01:00",
-            "date_modified": "2024-11-15T09:56:59+01:00"
-        },
-        {
-            "id": "file:///C:\Users\huber\Publii\julians-portfolio\preview/linsinger-vermessung/index.html",
-            "url": "file:///C:\Users\huber\Publii\julians-portfolio\preview/linsinger-vermessung/index.html",
-            "title": "Linsinger Vermessung",
-            "author": {
-                "name": "Julian Huber"
-            },
-            "tags": [
-                   "Career"
-            ],
-            "date_published": "2024-11-15T09:55:08+01:00",
-            "date_modified": "2024-11-15T09:57:07+01:00"
-        },
-        {
-            "id": "file:///C:\Users\huber\Publii\julians-portfolio\preview/itxpert/index.html",
-            "url": "file:///C:\Users\huber\Publii\julians-portfolio\preview/itxpert/index.html",
-            "title": "itxpert",
-            "author": {
-                "name": "Julian Huber"
-            },
-            "tags": [
-                   "Career"
-            ],
-            "date_published": "2024-11-15T09:54:40+01:00",
-            "date_modified": "2024-11-15T09:57:13+01:00"
-        },
-        {
-            "id": "file:///C:\Users\huber\Publii\julians-portfolio\preview/test4/index.html",
-            "url": "file:///C:\Users\huber\Publii\julians-portfolio\preview/test4/index.html",
-            "title": "BG/BRG/BORG St. Johann",
-            "author": {
-                "name": "Julian Huber"
-            },
-            "tags": [
-                   "Career"
-            ],
-            "date_published": "2024-11-15T09:13:08+01:00",
-            "date_modified": "2024-11-15T09:57:18+01:00"
-        },
-        {
-            "id": "file:///C:\Users\huber\Publii\julians-portfolio\preview/test3/index.html",
-            "url": "file:///C:\Users\huber\Publii\julians-portfolio\preview/test3/index.html",
+            "id": "file:///C:\GitHub\Publii\julians-portfolio\preview/htl-saalfelden/index.html",
+            "url": "file:///C:\GitHub\Publii\julians-portfolio\preview/htl-saalfelden/index.html",
             "title": "HTL-Saalfelden",
+            "summary": "Eine Welt ohne Informatik ist nicht mehr vorstellbar! Wir bieten dir eine fundierte Ausbildung in allen Bereichen der Softwareentwicklung, der Netzwerktechnik, Datenbanken, KI's&hellip;",
+            "content_html": "<div id=\"c441\" class=\" frame frame-default frame-type-text frame-layout-default frame-size-default frame-height-default frame-background-none frame-space-before-none frame-space-after-none frame-no-backgroundimage\">\n<div class=\"frame-group-container\">\n<div class=\"frame-group-inner\">\n<div class=\"frame-container frame-container-default\">\n<div class=\"frame-inner\">\n<p>Eine Welt ohne Informatik ist nicht mehr vorstellbar! Wir bieten dir eine fundierte Ausbildung in allen Bereichen der Softwareentwicklung, der Netzwerktechnik, Datenbanken, KI's aber auch der Betriebswirtschaft und des Projektmanagements an. Nach dem Abschluss der HTL für Informatik steht dir ein unglaublich großes Betätigungsfeld offen.</p>\n<p><strong>Computerarchitektur und Betriebssysteme:</strong><br>Wie ist ein Computer aufgebaut? Welche Aufgaben erfüllt ein Betriebssystem? Wie installiere ich Applikationen? Wie funktionieren Schnittstellen? Hier werden die Grundlagen der Informatik gelernt.</p>\n<p><br><strong>Programmierung und Software Engineering:</strong><br>Dieser Gegenstand umfasst die Kernkompetenzen einer modernen Informatikausbildung. Zu Beginn werden die wesentlichen Programmiertechniken vermittelt und über praxisbezogene Aufgabenstellungen werden alle Entwicklungsschritte einer Softwareentwicklung an aktuellen Plattformen realisiert. </p>\n<p><br><strong>Datenbanken:</strong><br>Datenbanken bilden das Rückgrat vielfacher Anwendungen. Die Entwicklung, Programmierung und Implementierung unterschiedlicher Datenbanken wird gelernt und auch mittels eigner Projekte geübt. </p>\n<p><br><strong>Netzwerksysteme und Cyber Security:</strong><br>Der Aufbau von Kommunikationsnetzen wird in diesem Bereich vermittelt. Unsere Schüler beschäftigen sich mit der der Planung und Realisierung von Computer-Netzwerken unter Verwendung geeigneter Netzwerkkomponenten (z. B. LAN-Kabel, Switch, Router, Firewall, WLAN, ...). Im praktischen Unterricht wird vermittelt, wie Netzwerkdienste (z.B. Webserver) installiert, konfiguriert und gesichert werden.</p>\n<p><br><strong>Webprogrammierung und Mobile Computing:</strong><br>Webentwicklung und Erstellung eigener APP’s mit ihren unterschiedlichen Anwendungsdomänen (z.B. Games, Sports, Internet of Things, … )</p>\n<p><br><strong>Data Science und Artifical Intelligence:</strong><br>„Big Data“ und „Künstliche Intelligenz“ sind die passenden Schlagwörter zu den Inhalten dieses Faches.</p>\n<p><br><strong>Betriebswirtschaft und Management:</strong><br>Hier werden die betriebswirtschaftlichen Grundlagen vermittelt, die alle betrieblichen Unternehmensbereiche sowie deren Organisation und Management umfasst.</p>\n<p>Für Mädchen, die nicht die „traditionellen“ Berufe ergreifen möchten und sich für Technik interessieren und gerne in anspruchsvollen Tätigkeitsbereichen mit anderen Menschen zusammenarbeiten wollen, ist der Berufszweig „Informatik“ besonders attraktiv. Vielfältige Einsatzmöglichkeiten in allen Gebieten der Technik – von Spieledesign bis zu ausgereiftesten Datenbanken - stehen ihnen offen. Die fundierte Ausbildung bereitet optimal auf die Arbeitswelt vor und bietet gute Bezahlung und beste Aufstiegsmöglichkeiten.</p>\n<p><strong>IT NOW, IT is the FUTURE, CODING the FUTURE</strong></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"c431\" class=\" frame frame-default frame-type-bullets frame-layout-default frame-size-default frame-height-default frame-background-none frame-space-before-none frame-space-after-none frame-no-backgroundimage\">\n<div class=\"frame-group-container\">\n<div class=\"frame-group-inner\">\n<div class=\"frame-container frame-container-default\">\n<div class=\"frame-inner\">\n<div class=\"frame-header\">\n<h2 class=\"element-header h3 \">Einsatzgebiete und Tätigkeitsfelder</h2>\n</div>\n<ul class=\"list\">\n<li>Absolventinnen und Absolventen aus Informatik können zahlreiche ingenieurmäßige Tätigkeiten ausführen:</li>\n<li>Applikations- und Softwareentwicklung</li>\n<li>Anwendungs- und Systemprogrammierung</li>\n<li>Software Engineering</li>\n<li>Informationssystemorganisation</li>\n<li>Datenbankdesigns und Datenbankprogrammierung</li>\n<li>Datenschutz- und Datensicherheitstechnik</li>\n<li>Applikationsdesign</li>\n<li>Projektmanagement</li>\n<li>System- und Anforderungsanalytik</li>\n<li>Systemberatung</li>\n<li>Systemadministration</li>\n<li>Systemmanagement</li>\n<li>Informatik-Training</li>\n<li>selbstständige unternehmerische Tätigkeit</li>\n</ul>\n<p><img loading=\"lazy\" src=\"https://www.htlsaalfelden.at/fileadmin/website/abteilungen/informatik/bilder_seite/Bild_Inf3.jpg\" width=\"665\" height=\"484\" data-is-external-image=\"true\"></p>\n</div>\n</div>\n</div>\n</div>\n</div>",
+            "image": "file:///C:\GitHub\Publii\julians-portfolio\preview/media/posts/4/Bild3.jpg",
             "author": {
                 "name": "Julian Huber"
             },
@@ -86,25 +24,13 @@
                    "Career"
             ],
             "date_published": "2024-11-15T08:48:00+01:00",
-            "date_modified": "2024-11-15T09:57:24+01:00"
+            "date_modified": "2024-11-22T08:46:07+01:00"
         },
         {
-            "id": "file:///C:\Users\huber\Publii\julians-portfolio\preview/test2/index.html",
-            "url": "file:///C:\Users\huber\Publii\julians-portfolio\preview/test2/index.html",
-            "title": "eurofunk",
-            "author": {
-                "name": "Julian Huber"
-            },
-            "tags": [
-                   "Career"
-            ],
-            "date_published": "2024-11-15T08:47:53+01:00",
-            "date_modified": "2024-11-15T09:57:31+01:00"
-        },
-        {
-            "id": "file:///C:\Users\huber\Publii\julians-portfolio\preview/test-2/index.html",
-            "url": "file:///C:\Users\huber\Publii\julians-portfolio\preview/test-2/index.html",
+            "id": "file:///C:\GitHub\Publii\julians-portfolio\preview/unifits/index.html",
+            "url": "file:///C:\GitHub\Publii\julians-portfolio\preview/unifits/index.html",
             "title": "UNIFITS",
+            "image": "file:///C:\GitHub\Publii\julians-portfolio\preview/media/posts/2/Unifits_Logo_RGB.webp",
             "author": {
                 "name": "Julian Huber"
             },
@@ -112,8 +38,112 @@
                    "Projects",
                    "Career"
             ],
-            "date_published": "2024-11-15T08:42:12+01:00",
-            "date_modified": "2024-11-15T10:29:00+01:00"
+            "date_published": "2024-08-18T08:42:00+02:00",
+            "date_modified": "2024-11-22T08:54:10+01:00"
+        },
+        {
+            "id": "file:///C:\GitHub\Publii\julians-portfolio\preview/level-up-salzburg-2024/index.html",
+            "url": "file:///C:\GitHub\Publii\julians-portfolio\preview/level-up-salzburg-2024/index.html",
+            "title": "LEVEL UP, Salzburg 2024",
+            "summary": "Die vierte Ausgabe von LEVEL UP – The Gaming Festival fand am 29. und 30. Juni im Messezentrum Salzburg statt und zog rund&hellip;",
+            "content_html": "<p>Die vierte Ausgabe von LEVEL UP – The Gaming Festival fand am 29. und 30. Juni im Messezentrum Salzburg statt und zog rund 10.000 begeisterte Besucher an. Mit einer abwechslungsreichen Mischung aus eSports-Turnieren, interaktiven Angeboten, faszinierenden Ausstellern und beeindruckenden Cosplay-Auftritten bot das Event für jeden etwas. Nach diesem erfolgreichen Wochenende freuen wir uns schon auf die nächste Ausgabe am 28. und 29. Juni 2025!</p>\n<h3>Mainstage: eSports und Diversität im Fokus</h3>\n<p>Die Mainstage von LEVEL UP 2024 war der Hotspot für eSports-Fans und Profis. Hier fanden hochkarätige Turniere statt, die das Publikum begeisterten. In spannenden Wettkämpfen in Games wie Rocket League, Counter Strike 2 und Super Smash traten die besten Talente der Szene an und boten packende Unterhaltung. Die Atmosphäre auf der Mainstage war elektrisierend und machte die große Bühne zum zentralen Highlight des Festivals.</p>\n<p>Ein besonderes Novum auf der Mainstage war SheRivals: Queens of Austria. In diesem einzigartigen League of Legends Showmatch traten die weiblichen Teams von NNO Prime und SK Gaming gegeneinander an. Damit setzt LEVEL UP gemeinsam mit der Turnier-Organisation Morekats ein starkes Zeichen für mehr Diversität und Sichtbarkeit von Frauen im eSports.</p>\n<p> </p>\n<figure id=\"attachment_5553\" class=\"wp-caption aligncenter\" aria-describedby=\"caption-attachment-5553\"><figure class=\"wp-image-5553\"><img  src=\"https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Mainstage_c_LinaJakobi-300x171.jpg\" sizes=\"(max-width: 800px) 100vw, 800px\" srcset=\"https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Mainstage_c_LinaJakobi-300x171.jpg 300w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Mainstage_c_LinaJakobi-1024x584.jpg 1024w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Mainstage_c_LinaJakobi-768x438.jpg 768w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Mainstage_c_LinaJakobi-1536x876.jpg 1536w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Mainstage_c_LinaJakobi-2048x1168.jpg 2048w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Mainstage_c_LinaJakobi-18x10.jpg 18w\" alt=\"\" width=\"800\" height=\"456\" loading=\"lazy\" data-is-external-image=\"true\"></figure>\n<figcaption id=\"caption-attachment-5553\" class=\"wp-caption-text\">LEVEL UP setzt Zeichen für mehr Sichtbarkeit von Frauen im eSports. © LEVEL UP / Lina Jakobi</figcaption>\n</figure>\n<p>Lena Braito, Projektleiterin von LEVEL UP, über das einzigartige Turnier: „Bei LEVEL UP legen wir großen Wert auf Vielfalt. Deshalb haben wir in diesem Jahr erstmals ein ausschließlich weibliches Turnier zusammen mit unseren langjährigen Partnern Morekats Gaming organisiert. Unser Ziel ist es, junge Frauen und Mädchen zu inspirieren und traditionelle Rollenbilder zu verändern.“</p>\n<h3>Spannung und Spaß auf der Raiffeisen Club Community Stage</h3>\n<p>Auf der Raiffeisen Club Community Stage gab es eine Vielzahl an interaktiven Programmpunkten, bei denen Besucher direkt teilnehmen konnten. Ein Highlight war die LudeCat, bei der Besucher in Indie Games zu viert gegeneinander antreten konnten. Beim Game2Help – Beat the Pro traten mutige Teilnehmer gegen den Super Smash Profi und YouTuber Luigikid an, um ihr Können unter Beweis zu stellen. Für herausragende Leistungen gegen den Profi wanderten jeweils 200 Euro in den Spendentopf von Letsplay4Charity. Ihr Wissen rund um Gaming und Nerdkultur bewiesen Besucher:innen bei The Amazing Nerdquiz – LEVEL UP Edition.</p>\n<figure id=\"attachment_5556\" class=\"wp-caption aligncenter\" aria-describedby=\"caption-attachment-5556\"><figure class=\"wp-image-5556 \"><img  src=\"https://www.levelup-salzburg.at/wp-content/uploads/2024/07/62_LEVELUP2024_Sonntag_Community-Stage_c_LinaJakobi_7403288-300x200.jpg\" sizes=\"(max-width: 800px) 100vw, 800px\" srcset=\"https://www.levelup-salzburg.at/wp-content/uploads/2024/07/62_LEVELUP2024_Sonntag_Community-Stage_c_LinaJakobi_7403288-300x200.jpg 300w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/62_LEVELUP2024_Sonntag_Community-Stage_c_LinaJakobi_7403288-1024x683.jpg 1024w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/62_LEVELUP2024_Sonntag_Community-Stage_c_LinaJakobi_7403288-768x512.jpg 768w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/62_LEVELUP2024_Sonntag_Community-Stage_c_LinaJakobi_7403288-1536x1024.jpg 1536w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/62_LEVELUP2024_Sonntag_Community-Stage_c_LinaJakobi_7403288-2048x1365.jpg 2048w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/62_LEVELUP2024_Sonntag_Community-Stage_c_LinaJakobi_7403288-18x12.jpg 18w\" alt=\"\" width=\"800\" height=\"533\" loading=\"lazy\" data-is-external-image=\"true\"></figure>\n<figcaption id=\"caption-attachment-5556\" class=\"wp-caption-text\">Selbst Bühnenluft schnuppern konnten die Besucher auf der Raiffeisen Club Community Stage © LEVEL UP / Fabian Stoffers</figcaption>\n</figure>\n<h3>Streamen für den guten Zweck</h3>\n<p>Der Letsplay4Charity Livestream war erneut ein großer Erfolg. Mehrere bekannte Streamer sammelten gemeinsam live vom Festival Geld für wohltätige Zwecke in ihren Twitch-Streams. Die 281.000 Zuschauer konnten während der Übertragungen direkt spenden, um die Aktion zu unterstützen.</p>\n<p>Ein weiterer wichtiger Teil der Charity-Aktion waren die Spenden, die durch die Beat The Pro Challenge von Game2Help erspielt wurden. Diese kombinierte Herangehensweise ermöglichte es, eine beträchtliche Spendensumme von etwa 11.000 Euro für wohltätige Zwecke zu sammeln.</p>\n<p>Aber auch jenseits der Bühnen und des Streams gab es bei LEVEL UP einiges zu entdecken.</p>\n<h3>Indie-Spiele, Retro-Gaming und mehr Entdeckungen in der Gaming Zone</h3>\n<p>Die Gaming Zone war ein aufregender Bereich, in dem Aussteller und Teams gemeinsam die Fläche belebten. Hier gab es einen Escape Room der Salzburg AG, einen Bagger-Simulator von Porr und Simracing im Red Bull Gaming Ground. Zahlreiche Unternehmen, darunter das BRZ, W&amp;H und Axess, nutzten die Gelegenheit, um nach neuen Mitarbeitern zu suchen.</p>\n<p>Direkt nebenan lud die Community Area zum Spielen und Verweilen ein. Esports Teams und Vereine wie die Morekats oder Virtual Dojo begeisterten die Besucher mit ihren vielfältigen Aktivitäten. Die E-Sport School League (ESSL) präsentierte stolz ihre Arbeit am Aufbau einer österreichischen eSports Schülerliga. Zusätzlich konnte man in der uRage Free2Play Area an 50 PCs nach Herzenslust zocken.</p>\n<figure id=\"attachment_5551\" class=\"wp-caption aligncenter\" aria-describedby=\"caption-attachment-5551\"><figure class=\"wp-image-5551\"><img  src=\"https://www.levelup-salzburg.at/wp-content/uploads/2024/07/LEVELUP2024_c_LinaJakobi-300x200.jpg\" sizes=\"(max-width: 800px) 100vw, 800px\" srcset=\"https://www.levelup-salzburg.at/wp-content/uploads/2024/07/LEVELUP2024_c_LinaJakobi-300x200.jpg 300w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/LEVELUP2024_c_LinaJakobi-1024x683.jpg 1024w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/LEVELUP2024_c_LinaJakobi-768x512.jpg 768w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/LEVELUP2024_c_LinaJakobi-1536x1024.jpg 1536w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/LEVELUP2024_c_LinaJakobi-2048x1365.jpg 2048w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/LEVELUP2024_c_LinaJakobi-18x12.jpg 18w\" alt=\"\" width=\"800\" height=\"533\" loading=\"lazy\" data-is-external-image=\"true\"></figure>\n<figcaption id=\"caption-attachment-5551\" class=\"wp-caption-text\">LEVEL UP bot Spielspaß für jede Altersklasse © LEVEL UP / Lina Jakobi</figcaption>\n</figure>\n<p>Ein weiteres Highlight war die Indie Games Area, präsentiert von der FH Salzburg. Diese Zone war die Anlaufstelle für alle, die sich für Innovation und den Ideenreichtum unabhängiger Entwickler interessierten. Hier hatten 30 Spieleentwickler die Gelegenheit, ihre kreativen Projekte vorzustellen. Besucher konnten eine Vielzahl einzigartiger und origineller Spiele entdecken, die abseits des Mainstreams entwickelt wurden. Die Vielfalt und die Kreativität der Indie Game Szene begeisterte Groß und Klein.</p>\n<p>Nach einem Ausflug in die Welt der Indie-Spiele konnten Besucher in der Retro Area in nostalgische Welten eintauchen. Diese Area war ein Paradies für Fans klassischer Spiele, wo ikonische Games vergangener Zeiten wiederentdeckt werden konnten. Hier fand man Flipperautomaten, riesige Pac-Man- und Space-Invaders-Spiele sowie Originalkonsolen und -systeme aus den Anfängen der Videospiele.</p>\n<h3>Von Kunst zu Action: Erlebnisse jenseits von Gaming und Bildschirmen</h3>\n<p>Für diejenigen, die neben dem Gaming auch die kreative Seite der Szene entdecken wollten, war die Artist Alley der ideale Ort. Hier präsentierten sich Künstler und Händler mit einer Vielzahl von einzigartigen und handgefertigten Artikeln, von Kunstwerken und Postern bis hin zu Schmuck und Fanartikeln. Diese lebendige Zone bot besondere Souvenirs und zeigte die kreative Vielfalt der Gaming-Kultur. Direkt nebenan in der Tabletop Area kamen Fans von Strategie-, Brett- und Kartenspielen auf ihre Kosten. In einer gemütlichen Atmosphäre konnten die Besucher neue Spiele ausprobieren, an Turnieren teilnehmen und sich mit Gleichgesinnten austauschen.</p>\n<p>Doch nicht nur für die Kreativen gab es spannende Angebote: Die Action Area war ein Hotspot für alle, die neben dem digitalen Spiel auch sportlich aktiv sein wollten. Besucher konnten auf KTM Minibikes ihr Fahrgeschick unter Beweis stellen. Für diejenigen, die den Nervenkitzel des Taktikspiels suchten, bot Lasertag spannende Matches. Bei Bubble Soccer konnte man sich in riesigen aufblasbaren Bällen austoben, während VR Matches die Grenzen zwischen virtueller und realer Welt verschwimmen ließen. Diese vielfältigen Aktivitäten machten die Action Area zu einem beliebten Bereich des Festivals, der für jeden etwas zu bieten hatte.</p>\n<figure id=\"attachment_5554\" class=\"wp-caption aligncenter\" aria-describedby=\"caption-attachment-5554\"><figure class=\"wp-image-5554 \"><img  src=\"https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Winner_c_LinaJakobi-300x200.jpg\" sizes=\"(max-width: 800px) 100vw, 800px\" srcset=\"https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Winner_c_LinaJakobi-300x200.jpg 300w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Winner_c_LinaJakobi-1024x683.jpg 1024w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Winner_c_LinaJakobi-768x512.jpg 768w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Winner_c_LinaJakobi-1536x1024.jpg 1536w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Winner_c_LinaJakobi-2048x1365.jpg 2048w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Winner_c_LinaJakobi-18x12.jpg 18w\" alt=\"\" width=\"800\" height=\"533\" loading=\"lazy\" data-is-external-image=\"true\"></figure>\n<figcaption id=\"caption-attachment-5554\" class=\"wp-caption-text\">Emotionen pur auf der LEVEL UP Mainstage © LEVEL UP / Lina Jakobi</figcaption>\n</figure>\n<p>Alexander Kribus, der Geschäftsführer des Messezentrums Salzburg, zog ein äußerst positives Fazit zu LEVEL UP 2024. Mit großer Zufriedenheit und Vorfreude auf das kommende Jahr sagte er: LEVEL UP hat in diesem Jahr durch seine Vielfalt und das interaktive Programm alle Erwartungen übertroffen. Die positive Resonanz und die Begeisterung der Besucher haben das Event zu einem herausragenden Erfolg gemacht. Daher freuen wir uns schon jetzt auf eine Fortsetzung im nächsten Jahr.”</p>\n<p>LEVEL UP 2025 findet am 28. und 29. Juni statt und wir freuen uns darauf.</p>",
+            "image": "file:///C:\GitHub\Publii\julians-portfolio\preview/media/posts/9/icarace-2048x1365-1__original.jpeg",
+            "author": {
+                "name": "Julian Huber"
+            },
+            "tags": [
+                   "Personal"
+            ],
+            "date_published": "2024-06-29T18:56:00+02:00",
+            "date_modified": "2024-11-22T08:28:13+01:00"
+        },
+        {
+            "id": "file:///C:\GitHub\Publii\julians-portfolio\preview/eurofunk/index.html",
+            "url": "file:///C:\GitHub\Publii\julians-portfolio\preview/eurofunk/index.html",
+            "title": "eurofunk",
+            "image": "file:///C:\GitHub\Publii\julians-portfolio\preview/media/posts/3/images.png",
+            "author": {
+                "name": "Julian Huber"
+            },
+            "tags": [
+                   "Career"
+            ],
+            "date_published": "2023-07-14T08:47:00+02:00",
+            "date_modified": "2024-11-22T08:53:50+01:00"
+        },
+        {
+            "id": "file:///C:\GitHub\Publii\julians-portfolio\preview/allegiance/index.html",
+            "url": "file:///C:\GitHub\Publii\julians-portfolio\preview/allegiance/index.html",
+            "title": "Allegiance",
+            "image": "file:///C:\GitHub\Publii\julians-portfolio\preview/media/posts/8/Unbenannt-2.PNG",
+            "author": {
+                "name": "Julian Huber"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2023-06-18T15:55:00+02:00",
+            "date_modified": "2024-11-22T08:52:41+01:00"
+        },
+        {
+            "id": "file:///C:\GitHub\Publii\julians-portfolio\preview/linsinger-vermessung/index.html",
+            "url": "file:///C:\GitHub\Publii\julians-portfolio\preview/linsinger-vermessung/index.html",
+            "title": "Linsinger Vermessung",
+            "image": "file:///C:\GitHub\Publii\julians-portfolio\preview/media/posts/7/linsinger-1.1380x720.webp",
+            "author": {
+                "name": "Julian Huber"
+            },
+            "tags": [
+                   "Career"
+            ],
+            "date_published": "2022-08-14T14:55:00+02:00",
+            "date_modified": "2024-11-22T08:53:27+01:00"
+        },
+        {
+            "id": "file:///C:\GitHub\Publii\julians-portfolio\preview/itxpert/index.html",
+            "url": "file:///C:\GitHub\Publii\julians-portfolio\preview/itxpert/index.html",
+            "title": "itxpert",
+            "image": "file:///C:\GitHub\Publii\julians-portfolio\preview/media/posts/6/46df2a_c3e66cae16be46b4905a4c226dca411b~mv2.png",
+            "author": {
+                "name": "Julian Huber"
+            },
+            "tags": [
+                   "Career"
+            ],
+            "date_published": "2022-07-28T14:54:00+02:00",
+            "date_modified": "2024-11-22T08:54:33+01:00"
+        },
+        {
+            "id": "file:///C:\GitHub\Publii\julians-portfolio\preview/level-up-salzburg-2022/index.html",
+            "url": "file:///C:\GitHub\Publii\julians-portfolio\preview/level-up-salzburg-2022/index.html",
+            "title": "LEVEL UP, Salzburg, 2022",
+            "summary": "Die zweite Ausgabe von LEVEL UP – The Gaming Festival fand am 29. und 30. Juni im Messezentrum Salzburg statt und zog rund&hellip;",
+            "content_html": "<p>Die zweite Ausgabe von LEVEL UP – The Gaming Festival fand am 29. und 30. Juni im Messezentrum Salzburg statt und zog rund 10.000 begeisterte Besucher an. Mit einer abwechslungsreichen Mischung aus eSports-Turnieren, interaktiven Angeboten, faszinierenden Ausstellern und beeindruckenden Cosplay-Auftritten bot das Event für jeden etwas. Nach diesem erfolgreichen Wochenende freuen wir uns schon auf die nächste Ausgabe am 28. und 29. Juni 2023!</p>\n<h3>Mainstage: eSports und Diversität im Fokus</h3>\n<p>Die Mainstage von LEVEL UP 2022 war der Hotspot für eSports-Fans und Profis. Hier fanden hochkarätige Turniere statt, die das Publikum begeisterten. In spannenden Wettkämpfen in Games wie Rocket League, Counter Strike 2 und Super Smash traten die besten Talente der Szene an und boten packende Unterhaltung. Die Atmosphäre auf der Mainstage war elektrisierend und machte die große Bühne zum zentralen Highlight des Festivals.</p>\n<p>Ein besonderes Novum auf der Mainstage war SheRivals: Queens of Austria. In diesem einzigartigen League of Legends Showmatch traten die weiblichen Teams von NNO Prime und SK Gaming gegeneinander an. Damit setzt LEVEL UP gemeinsam mit der Turnier-Organisation Morekats ein starkes Zeichen für mehr Diversität und Sichtbarkeit von Frauen im eSports.</p>\n<figure id=\"attachment_5553\" class=\"wp-caption aligncenter\" aria-describedby=\"caption-attachment-5553\"><figure class=\"wp-image-5553\"><img  src=\"https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Mainstage_c_LinaJakobi-300x171.jpg\" sizes=\"(max-width: 800px) 100vw, 800px\" srcset=\"https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Mainstage_c_LinaJakobi-300x171.jpg 300w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Mainstage_c_LinaJakobi-1024x584.jpg 1024w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Mainstage_c_LinaJakobi-768x438.jpg 768w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Mainstage_c_LinaJakobi-1536x876.jpg 1536w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Mainstage_c_LinaJakobi-2048x1168.jpg 2048w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Mainstage_c_LinaJakobi-18x10.jpg 18w\" alt=\"\" width=\"800\" height=\"456\" loading=\"lazy\" data-is-external-image=\"true\"></figure>\n<figcaption id=\"caption-attachment-5553\" class=\"wp-caption-text\">LEVEL UP setzt Zeichen für mehr Sichtbarkeit von Frauen im eSports. © LEVEL UP / Lina Jakobi</figcaption>\n</figure>\n<p>Lena Braito, Projektleiterin von LEVEL UP, über das einzigartige Turnier: „Bei LEVEL UP legen wir großen Wert auf Vielfalt. Deshalb haben wir in diesem Jahr erstmals ein ausschließlich weibliches Turnier zusammen mit unseren langjährigen Partnern Morekats Gaming organisiert. Unser Ziel ist es, junge Frauen und Mädchen zu inspirieren und traditionelle Rollenbilder zu verändern.“</p>\n<h3>Spannung und Spaß auf der Raiffeisen Club Community Stage</h3>\n<p>Auf der Raiffeisen Club Community Stage gab es eine Vielzahl an interaktiven Programmpunkten, bei denen Besucher direkt teilnehmen konnten. Ein Highlight war die LudeCat, bei der Besucher in Indie Games zu viert gegeneinander antreten konnten. Beim Game2Help – Beat the Pro traten mutige Teilnehmer gegen den Super Smash Profi und YouTuber Luigikid an, um ihr Können unter Beweis zu stellen. Für herausragende Leistungen gegen den Profi wanderten jeweils 200 Euro in den Spendentopf von Letsplay4Charity. Ihr Wissen rund um Gaming und Nerdkultur bewiesen Besucher:innen bei The Amazing Nerdquiz – LEVEL UP Edition.</p>\n<figure id=\"attachment_5556\" class=\"wp-caption aligncenter\" aria-describedby=\"caption-attachment-5556\"><figure class=\"wp-image-5556 \"><img  src=\"https://www.levelup-salzburg.at/wp-content/uploads/2024/07/62_LEVELUP2024_Sonntag_Community-Stage_c_LinaJakobi_7403288-300x200.jpg\" sizes=\"(max-width: 800px) 100vw, 800px\" srcset=\"https://www.levelup-salzburg.at/wp-content/uploads/2024/07/62_LEVELUP2024_Sonntag_Community-Stage_c_LinaJakobi_7403288-300x200.jpg 300w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/62_LEVELUP2024_Sonntag_Community-Stage_c_LinaJakobi_7403288-1024x683.jpg 1024w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/62_LEVELUP2024_Sonntag_Community-Stage_c_LinaJakobi_7403288-768x512.jpg 768w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/62_LEVELUP2024_Sonntag_Community-Stage_c_LinaJakobi_7403288-1536x1024.jpg 1536w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/62_LEVELUP2024_Sonntag_Community-Stage_c_LinaJakobi_7403288-2048x1365.jpg 2048w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/62_LEVELUP2024_Sonntag_Community-Stage_c_LinaJakobi_7403288-18x12.jpg 18w\" alt=\"\" width=\"800\" height=\"533\" loading=\"lazy\" data-is-external-image=\"true\"></figure>\n<figcaption id=\"caption-attachment-5556\" class=\"wp-caption-text\">Selbst Bühnenluft schnuppern konnten die Besucher auf der Raiffeisen Club Community Stage © LEVEL UP / Fabian Stoffers</figcaption>\n</figure>\n<h3>Streamen für den guten Zweck</h3>\n<p>Der Letsplay4Charity Livestream war erneut ein großer Erfolg. Mehrere bekannte Streamer sammelten gemeinsam live vom Festival Geld für wohltätige Zwecke in ihren Twitch-Streams. Die 281.000 Zuschauer konnten während der Übertragungen direkt spenden, um die Aktion zu unterstützen.</p>\n<p>Ein weiterer wichtiger Teil der Charity-Aktion waren die Spenden, die durch die Beat The Pro Challenge von Game2Help erspielt wurden. Diese kombinierte Herangehensweise ermöglichte es, eine beträchtliche Spendensumme von etwa 11.000 Euro für wohltätige Zwecke zu sammeln.</p>\n<p>Aber auch jenseits der Bühnen und des Streams gab es bei LEVEL UP einiges zu entdecken.</p>\n<h3>Indie-Spiele, Retro-Gaming und mehr Entdeckungen in der Gaming Zone</h3>\n<p>Die Gaming Zone war ein aufregender Bereich, in dem Aussteller und Teams gemeinsam die Fläche belebten. Hier gab es einen Escape Room der Salzburg AG, einen Bagger-Simulator von Porr und Simracing im Red Bull Gaming Ground. Zahlreiche Unternehmen, darunter das BRZ, W&amp;H und Axess, nutzten die Gelegenheit, um nach neuen Mitarbeitern zu suchen.</p>\n<p>Direkt nebenan lud die Community Area zum Spielen und Verweilen ein. Esports Teams und Vereine wie die Morekats oder Virtual Dojo begeisterten die Besucher mit ihren vielfältigen Aktivitäten. Die E-Sport School League (ESSL) präsentierte stolz ihre Arbeit am Aufbau einer österreichischen eSports Schülerliga. Zusätzlich konnte man in der uRage Free2Play Area an 50 PCs nach Herzenslust zocken.</p>\n<figure id=\"attachment_5551\" class=\"wp-caption aligncenter\" aria-describedby=\"caption-attachment-5551\"><figure class=\"wp-image-5551\"><img  src=\"https://www.levelup-salzburg.at/wp-content/uploads/2024/07/LEVELUP2024_c_LinaJakobi-300x200.jpg\" sizes=\"(max-width: 800px) 100vw, 800px\" srcset=\"https://www.levelup-salzburg.at/wp-content/uploads/2024/07/LEVELUP2024_c_LinaJakobi-300x200.jpg 300w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/LEVELUP2024_c_LinaJakobi-1024x683.jpg 1024w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/LEVELUP2024_c_LinaJakobi-768x512.jpg 768w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/LEVELUP2024_c_LinaJakobi-1536x1024.jpg 1536w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/LEVELUP2024_c_LinaJakobi-2048x1365.jpg 2048w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/LEVELUP2024_c_LinaJakobi-18x12.jpg 18w\" alt=\"\" width=\"800\" height=\"533\" loading=\"lazy\" data-is-external-image=\"true\"></figure>\n<figcaption id=\"caption-attachment-5551\" class=\"wp-caption-text\">LEVEL UP bot Spielspaß für jede Altersklasse © LEVEL UP / Lina Jakobi</figcaption>\n</figure>\n<p>Ein weiteres Highlight war die Indie Games Area, präsentiert von der FH Salzburg. Diese Zone war die Anlaufstelle für alle, die sich für Innovation und den Ideenreichtum unabhängiger Entwickler interessierten. Hier hatten 30 Spieleentwickler die Gelegenheit, ihre kreativen Projekte vorzustellen. Besucher konnten eine Vielzahl einzigartiger und origineller Spiele entdecken, die abseits des Mainstreams entwickelt wurden. Die Vielfalt und die Kreativität der Indie Game Szene begeisterte Groß und Klein.</p>\n<p>Nach einem Ausflug in die Welt der Indie-Spiele konnten Besucher in der Retro Area in nostalgische Welten eintauchen. Diese Area war ein Paradies für Fans klassischer Spiele, wo ikonische Games vergangener Zeiten wiederentdeckt werden konnten. Hier fand man Flipperautomaten, riesige Pac-Man- und Space-Invaders-Spiele sowie Originalkonsolen und -systeme aus den Anfängen der Videospiele.</p>\n<h3>Von Kunst zu Action: Erlebnisse jenseits von Gaming und Bildschirmen</h3>\n<p>Für diejenigen, die neben dem Gaming auch die kreative Seite der Szene entdecken wollten, war die Artist Alley der ideale Ort. Hier präsentierten sich Künstler und Händler mit einer Vielzahl von einzigartigen und handgefertigten Artikeln, von Kunstwerken und Postern bis hin zu Schmuck und Fanartikeln. Diese lebendige Zone bot besondere Souvenirs und zeigte die kreative Vielfalt der Gaming-Kultur. Direkt nebenan in der Tabletop Area kamen Fans von Strategie-, Brett- und Kartenspielen auf ihre Kosten. In einer gemütlichen Atmosphäre konnten die Besucher neue Spiele ausprobieren, an Turnieren teilnehmen und sich mit Gleichgesinnten austauschen.</p>\n<p>Doch nicht nur für die Kreativen gab es spannende Angebote: Die Action Area war ein Hotspot für alle, die neben dem digitalen Spiel auch sportlich aktiv sein wollten. Besucher konnten auf KTM Minibikes ihr Fahrgeschick unter Beweis stellen. Für diejenigen, die den Nervenkitzel des Taktikspiels suchten, bot Lasertag spannende Matches. Bei Bubble Soccer konnte man sich in riesigen aufblasbaren Bällen austoben, während VR Matches die Grenzen zwischen virtueller und realer Welt verschwimmen ließen. Diese vielfältigen Aktivitäten machten die Action Area zu einem beliebten Bereich des Festivals, der für jeden etwas zu bieten hatte.</p>\n<figure id=\"attachment_5554\" class=\"wp-caption aligncenter\" aria-describedby=\"caption-attachment-5554\"><figure class=\"wp-image-5554 \"><img  src=\"https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Winner_c_LinaJakobi-300x200.jpg\" sizes=\"(max-width: 800px) 100vw, 800px\" srcset=\"https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Winner_c_LinaJakobi-300x200.jpg 300w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Winner_c_LinaJakobi-1024x683.jpg 1024w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Winner_c_LinaJakobi-768x512.jpg 768w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Winner_c_LinaJakobi-1536x1024.jpg 1536w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Winner_c_LinaJakobi-2048x1365.jpg 2048w, https://www.levelup-salzburg.at/wp-content/uploads/2024/07/Winner_c_LinaJakobi-18x12.jpg 18w\" alt=\"\" width=\"800\" height=\"533\" loading=\"lazy\" data-is-external-image=\"true\"></figure>\n<figcaption id=\"caption-attachment-5554\" class=\"wp-caption-text\">Emotionen pur auf der LEVEL UP Mainstage © LEVEL UP / Lina Jakobi</figcaption>\n</figure>\n<p>Alexander Kribus, der Geschäftsführer des Messezentrums Salzburg, zog ein äußerst positives Fazit zu LEVEL UP 2022. Mit großer Zufriedenheit und Vorfreude auf das kommende Jahr sagte er: LEVEL UP hat in diesem Jahr durch seine Vielfalt und das interaktive Programm alle Erwartungen übertroffen. Die positive Resonanz und die Begeisterung der Besucher haben das Event zu einem herausragenden Erfolg gemacht. Daher freuen wir uns schon jetzt auf eine Fortsetzung im nächsten Jahr.”</p>\n<p>LEVEL UP 2023 findet am 28. und 29. Juni statt und wir freuen uns darauf.</p>",
+            "image": "file:///C:\GitHub\Publii\julians-portfolio\preview/media/posts/11/30_LEVELUP2024_Sonntag_Mainstage_c_fabianstoffers_7928-1024x683.jpg",
+            "author": {
+                "name": "Julian Huber"
+            },
+            "tags": [
+                   "Personal"
+            ],
+            "date_published": "2022-06-29T18:11:00+02:00",
+            "date_modified": "2024-11-22T08:32:33+01:00"
+        },
+        {
+            "id": "file:///C:\GitHub\Publii\julians-portfolio\preview/bgbrgborg-st-johann/index.html",
+            "url": "file:///C:\GitHub\Publii\julians-portfolio\preview/bgbrgborg-st-johann/index.html",
+            "title": "BG/BRG/BORG St. Johann",
+            "summary": "Meeresbiologische Woche 24/25 - Schuljahr 19/20 Klassen MINT Die 4. Klassen des Forscherzweiges verbrachten eine Woche in Kroatien. Die zwei Forscherklassen 4AR und 4BR verließen&hellip;",
+            "content_html": "<div class=\"news-details-top\">\n<h3>Meeresbiologische Woche 24/25</h3>\n<div class=\"news-details-calender\">\n<div class=\"blog-meta-2 for-news\"><span class=\"published3\">-</span> <span class=\"published3\">Schuljahr 19/20 </span><span class=\"published3\">Klassen </span><span class=\"published3\">MINT</span></div>\n</div>\n</div>\n<div class=\"teaser-text\">\n<p>Die 4. Klassen des Forscherzweiges verbrachten eine Woche in Kroatien.</p>\n</div>\n<div class=\"news-details-middle about-text\">\n<p>Die zwei Forscherklassen 4AR und 4BR verließen St.Johann am 02.07. 2019 Richtung Kroatien. Am Montag holten sich die SchülerInnen noch die Schnorchelausrüstung ab und mussten dort das erste Mal in ihren Neoprenanzug schlüpfen, um sicherzugehen, dass alles die richtige Größe hatte.  </p>\n<p>Gut ausgerüstet starteten die zwei Klassen am Dienstag getrennt voneinander in den ersten Projekttag. Die 4AR ging an Board eines Bootes, das sie nach einer Stunde Fahrt auf die unbewohnte Insel Plavnik brachte. Dort fand als erstes eine Einführung in das Schnorcheln statt und danach ging es schon ab ins Meer, um die verschiedensten Lebewesen zu entdecken. Es wurden unter anderem Seesterne und Seegurken heraufgetaucht, sowie viele verschiedene Fische gesichtet. Am Nachmittag ging es dann auf ein Plateau, wo die dort lebende apulische Tarantel gefangen wurde und auch andere Tiere, wie z.B. eine Gottesanbeterin gefunden wurden.</p>\n<p>Die 4BR verbrachte den ersten Tag in einer Bucht und schnorchelte dort. Am Nachmittag wurde in einer Schnitzeljagd die verschiedensten Organismen gefunden, gefangen und teilweise auch gegessen. In kleinen Präsentationen wurde dann dem Rest der Klasse die Entdeckungen jeder Gruppe genauer erklärt.  </p>\n<p>Am Mittwoch wurde das Programm der beiden Klassen getauscht, mit dem Unterschied, dass die 4AR auch ein verlassenes Hotel erkunden durfte. Am Donnerstag fuhren beide Klassen gemeinsam in eine andere Bucht, um dort das letzte Mal Schnorcheln zu gehen. Danach wurden am Nachmittag verschiedene Schwerpunkte gesetzt, z.B. wurde Müll gesammelt. Am Abend machten alle gemeinsam noch einen Ausflug in die Stadt Krk und am Freitag nach dem Frühstück ging es zurück nach Österreich.</p>\n</div>\n<div class=\"d-flex flex-wrap flex-directoin-row flex-row gap-4 mt-5 mb-2\"><a data-fancybox=\"gallery\" href=\"https://www.gym-stjohann.at/fileadmin/_processed_/8/0/csm_4ABR_Meeresbiologische_Woche_Kroatien_1_ee3c544eae.jpeg\" title=\"\" class=\"lightbox\" rel=\"lightbox[myImageSet]\"><figure class=\"img-fluid news-max-img\"><img  src=\"https://www.gym-stjohann.at/fileadmin/_processed_/8/0/csm_4ABR_Meeresbiologische_Woche_Kroatien_1_e4f5ee7d97.jpeg\" alt=\"News 4. Klassen Forscher Meeresbiologische Woche Kroatien Schuljahr 2024-25\" width=\"385\" height=\"273\" loading=\"lazy\" data-is-external-image=\"true\"></figure></a><a data-fancybox=\"gallery\" href=\"https://www.gym-stjohann.at/fileadmin/_processed_/0/0/csm_4ABR_Meeresbiologische_Woche_Kroatien_2_4befe0ec38.jpeg\" title=\"\" class=\"lightbox\" rel=\"lightbox[myImageSet]\"><figure class=\"img-fluid news-max-img\"><img  src=\"https://www.gym-stjohann.at/fileadmin/_processed_/0/0/csm_4ABR_Meeresbiologische_Woche_Kroatien_2_adedfbdea2.jpeg\" alt=\"News 4. Klassen Forscher Meeresbiologische Woche Kroatien Schuljahr 2024-25\" width=\"224\" height=\"299\" loading=\"lazy\" data-is-external-image=\"true\"></figure></a><a data-fancybox=\"gallery\" href=\"https://www.gym-stjohann.at/fileadmin/_processed_/9/f/csm_4ABR_Meeresbiologische_Woche_Kroatien_4_6f34a69f92.jpeg\" title=\"\" class=\"lightbox\" rel=\"lightbox[myImageSet]\"><figure class=\"img-fluid news-max-img\"><img  src=\"https://www.gym-stjohann.at/fileadmin/_processed_/9/f/csm_4ABR_Meeresbiologische_Woche_Kroatien_4_8d8a224a3b.jpeg\" alt=\"\" width=\"347\" height=\"260\" loading=\"lazy\" data-is-external-image=\"true\"></figure></a><a data-fancybox=\"gallery\" href=\"https://www.gym-stjohann.at/fileadmin/_processed_/6/e/csm_4ABR_Meeresbiologische_Woche_Kroatien_6_a5eb968396.jpeg\" title=\"\" class=\"lightbox\" rel=\"lightbox[myImageSet]\"><figure class=\"img-fluid news-max-img\"><img  src=\"https://www.gym-stjohann.at/fileadmin/_processed_/6/e/csm_4ABR_Meeresbiologische_Woche_Kroatien_6_72d35f5110.jpeg\" alt=\"News 4. Klassen Forscher Meeresbiologische Woche Kroatien Schuljahr 2024-25\" width=\"347\" height=\"260\" loading=\"lazy\" data-is-external-image=\"true\"></figure></a><a data-fancybox=\"gallery\" href=\"https://www.gym-stjohann.at/fileadmin/_processed_/1/5/csm_4ABR_Meeresbiologische_Woche_Kroatien_8_e46985f64a.jpeg\" title=\"\" class=\"lightbox\" rel=\"lightbox[myImageSet]\"><figure class=\"img-fluid news-max-img\"><img  src=\"https://www.gym-stjohann.at/fileadmin/_processed_/1/5/csm_4ABR_Meeresbiologische_Woche_Kroatien_8_7110ed1245.jpeg\" alt=\"News 4. Klassen Forscher Meeresbiologische Woche Kroatien Schuljahr 2024-25\" width=\"195\" height=\"260\" loading=\"lazy\" data-is-external-image=\"true\"></figure></a><a data-fancybox=\"gallery\" href=\"https://www.gym-stjohann.at/fileadmin/_processed_/9/1/csm_4ABR_Meeresbiologische_Woche_Kroatien_9_202afa31e0.jpeg\" title=\"\" class=\"lightbox\" rel=\"lightbox[myImageSet]\"></a><a data-fancybox=\"gallery\" href=\"https://www.gym-stjohann.at/fileadmin/_processed_/2/2/csm_4ABR_Meeresbiologische_Woche_Kroatien_11_b66d6dadc1.jpeg\" title=\"\" class=\"lightbox\" rel=\"lightbox[myImageSet]\"></a><a data-fancybox=\"gallery\" href=\"https://www.gym-stjohann.at/fileadmin/_processed_/d/a/csm_4ABR_Meeresbiologische_Woche_Kroatien_12_67fe4dbc7b.jpeg\" title=\"\" class=\"lightbox\" rel=\"lightbox[myImageSet]\"></a><a data-fancybox=\"gallery\" href=\"https://www.gym-stjohann.at/fileadmin/_processed_/c/4/csm_4ABR_Meeresbiologische_Woche_Kroatien_13_9a7de9e530.jpeg\" title=\"\" class=\"lightbox\" rel=\"lightbox[myImageSet]\"></a></div>",
+            "image": "file:///C:\GitHub\Publii\julians-portfolio\preview/media/posts/5/csm_BRG_Logo_Startseite_c72769cabc-1.jpg",
+            "author": {
+                "name": "Julian Huber"
+            },
+            "tags": [
+                   "Career"
+            ],
+            "date_published": "2020-07-11T11:13:00+02:00",
+            "date_modified": "2024-11-22T08:43:47+01:00"
         }
     ]
 }
