@@ -3,7 +3,7 @@
     <title>Julian&#x27;s Portfolio</title>
     <link href="https://julianhuber.netlify.app/feed.xml" rel="self" />
     <link href="https://julianhuber.netlify.app" />
-    <updated>2024-12-05T19:57:10+01:00</updated>
+    <updated>2024-12-06T08:33:15+01:00</updated>
     <author>
         <name>Julian Huber</name>
     </author>
@@ -348,6 +348,7 @@ We’re excited about the progress we’ve made and look forward to delivering a
 <li><strong>Game UI and Controls</strong>: Ensuring the game was intuitive and fun to play.</li>
 </ul>
 <p>Collaboration was key, and we often reviewed and integrated our work to ensure the final product was cohesive and polished.</p>
+<figure class="post__image align-left"><img loading="lazy"  src="https://julianhuber.netlify.app/media/posts/8/Bild2.png" alt="" width="533" height="356" sizes="(max-width: 48em) 100vw, 768px" srcset="https://julianhuber.netlify.app/media/posts/8/responsive/Bild2-xs.png 300w ,https://julianhuber.netlify.app/media/posts/8/responsive/Bild2-sm.png 480w ,https://julianhuber.netlify.app/media/posts/8/responsive/Bild2-md.png 768w ,https://julianhuber.netlify.app/media/posts/8/responsive/Bild2-lg.png 1024w ,https://julianhuber.netlify.app/media/posts/8/responsive/Bild2-xl.png 1360w ,https://julianhuber.netlify.app/media/posts/8/responsive/Bild2-2xl.png 1600w"></figure>
 <hr>
 <h3><strong>What I Learned</strong></h3>
 <p>This project was a massive learning experience. I gained:</p>
@@ -378,7 +379,8 @@ We’re excited about the progress we’ve made and look forward to delivering a
 <hr>
 <h3><strong>Reflections</strong></h3>
 <p>Looking back, I’m incredibly proud of what our team achieved. Creating an infinite world from scratch and watching players immerse themselves in it was an unforgettable experience. This project sparked my interest in game development and procedural systems, inspiring me to explore these areas further.</p>
-<p>Unity has always been a powerful tool, but this project showed me how much can be accomplished with teamwork, creativity, and a passion for the craft.<br><br><img loading="lazy" src="https://cdn.hacdias.com/img/2000/8b305803cdfd3b2ec898c2917c2a3b96e9595bead637d8619ed4769b711d5404.jpeg" alt="Procedural Map Generation With Noise - Henrique Dias" data-is-external-image="true"></p>
+<p>Unity has always been a powerful tool, but this project showed me how much can be accomplished with teamwork, creativity, and a passion for the craft.<br><img loading="lazy" src="https://cdn.hacdias.com/img/2000/8b305803cdfd3b2ec898c2917c2a3b96e9595bead637d8619ed4769b711d5404.jpeg" alt="Procedural Map Generation With Noise - Henrique Dias" data-is-external-image="true"></p>
+<figure class="post__image"><img loading="lazy"  src="https://julianhuber.netlify.app/media/posts/8/Unbenannt.PNG" alt="" width="1262" height="802" sizes="(max-width: 48em) 100vw, 768px" srcset="https://julianhuber.netlify.app/media/posts/8/responsive/Unbenannt-xs.PNG 300w ,https://julianhuber.netlify.app/media/posts/8/responsive/Unbenannt-sm.PNG 480w ,https://julianhuber.netlify.app/media/posts/8/responsive/Unbenannt-md.PNG 768w ,https://julianhuber.netlify.app/media/posts/8/responsive/Unbenannt-lg.PNG 1024w ,https://julianhuber.netlify.app/media/posts/8/responsive/Unbenannt-xl.PNG 1360w ,https://julianhuber.netlify.app/media/posts/8/responsive/Unbenannt-2xl.PNG 1600w"></figure>
             ]]>
         </content>
     </entry>

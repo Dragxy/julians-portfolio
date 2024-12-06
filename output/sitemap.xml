@@ -6,9 +6,17 @@
 </url>
 <url>
 <loc>https://julianhuber.netlify.app/allegiance/</loc>
-<lastmod>2024-12-05T19:48:02+01:00</lastmod>
+<lastmod>2024-12-06T08:33:15+01:00</lastmod>
 <image:image>
 <image:loc>https://julianhuber.netlify.app/media/posts/8/Unbenannt-2.PNG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://julianhuber.netlify.app/media/posts/8/Bild2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://julianhuber.netlify.app/media/posts/8/Unbenannt.PNG</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -73,7 +81,7 @@
 </url>
 <url>
 <loc>https://julianhuber.netlify.app/testpage/</loc>
-<lastmod>2024-12-05T19:25:53+01:00</lastmod>
+<lastmod>2024-12-06T08:10:28+01:00</lastmod>
 </url>
 <url>
 <loc>https://julianhuber.netlify.app/unifits/</loc>
